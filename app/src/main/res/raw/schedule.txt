@@ -1,0 +1,8 @@
+image101, Ohio State, Feb 11, Purcell Pavilion at the Joyce Center Notre Dame Indiana, Seminoles, 31:41, 39:50, On Campus Event
+image102, Florida State, Feb 14, Purcell Pavilion at the Joyce Center Notre Dame Indiana, Seminoles, 20:54, 65:43, Off Campus Events
+image103, Wake Forest, Feb 18, Purcell Pavilion at the Joyce Center Notre Dame Indiana, Seminoles, 65:56, 87:89, On Campus Event
+image104, Boston College, Feb 26, Purcell Pavilion at the Joyce Center Notre Dame Indiana, Seminoles, 45:41, 58:41, Off Campus Events
+image105, North Carolina State, Mar 1, Purcell Pavilion at the Joyce Center Notre Dame Indiana, Seminoles, 76:49, 76:98, Off Campus Events
+image106, Georgia Tech, Mar 4, Purcell Pavilion at the Joyce Center Notre Dame Indiana, Seminoles, 65:59, 48:76, On Campus Event
+image107, North Virgina, Mar 7, Purcell Pavilion at the Joyce Center Notre Dame Indiana, Seminoles, 76:47, 69:41, On Campus Event
+image108, Chicago State, Mar 16, Purcell Pavilion at the Joyce Center Notre Dame Indiana, Seminoles, 31:41, 31:41, Off Campus Events

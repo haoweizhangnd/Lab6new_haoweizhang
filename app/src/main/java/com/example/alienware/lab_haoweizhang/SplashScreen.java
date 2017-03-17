@@ -9,7 +9,7 @@ import android.os.Bundle;
  */
 
 public class SplashScreen extends Activity {
-
+String TAG = "SplashScreen";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
